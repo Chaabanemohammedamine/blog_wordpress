@@ -26,6 +26,7 @@
               </button>
             
             <div class="collapse navbar-collapse" id="navbarNav">
+             
               <ul class="navbar-nav ml-auto">
                   <li class="nav-item">
                       <a href="index.html" class="nav-link">
@@ -38,7 +39,7 @@
                       </a>
                   </li>
                    <li class="nav-item">
-                      <a href="Blog.html" class="nav-link">
+                      <a href="/blog/blog/" class="nav-link">
                           Blog
                       </a>
                   </li>
